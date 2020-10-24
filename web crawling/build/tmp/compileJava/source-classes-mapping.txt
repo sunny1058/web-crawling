@@ -1,0 +1,10 @@
+com/webscrapper/webcrawling/WebCrawlingApplication.java
+ com.webscrapper.webcrawling.WebCrawlingApplication
+com/webscrapper/webcrawling/service/DojService.java
+ com.webscrapper.webcrawling.service.DojService
+com/webscrapper/webcrawling/dto/Books.java
+ com.webscrapper.webcrawling.dto.Books
+com/webscrapper/webcrawling/controller/ScrapperController.java
+ com.webscrapper.webcrawling.controller.ScrapperController
+com/webscrapper/webcrawling/service/AcademicService.java
+ com.webscrapper.webcrawling.service.AcademicService
